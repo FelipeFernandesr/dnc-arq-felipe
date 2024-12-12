@@ -8,9 +8,10 @@ Este projeto teve como principal objetivo a construção de uma  pagina para uma
 Dentro do site existe um formulário de envio de contato onde é possivel preencher com nome e email. O preenchimento dos ~três campos é obrigatório, caso contrário o botão não fica ativo para o envio do formulário.
 Os dados do formulário são submetidos através do web3forms para o meu email.
 Dentro do site existem dois botões para a troca de idioma entre português e inglês.
+Utilização de session storage na aplicação.
 
 <p align="center">
-     <a href="https://landinpagefelipe.netlify.app">📱 Visite a página</a>
+     <a href="https://dnc-arq-felipe.vercel.app/">📱 Visite a página</a>
 </p>
 
 ---
@@ -51,7 +52,7 @@ Dentro do site existem dois botões para a troca de idioma entre português e in
 ### 📂 Como Executar Localmente  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/FelipeFernandesr/LandindPage.git
+   git clone https://github.com/FelipeFernandesr/dnc-arq-felipe.git
 
 ---
 
